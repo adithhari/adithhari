@@ -4,7 +4,5 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="hhttps://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=BF53F7&multiline=true&random=false&width=435&lines=Hey+there!!!+Welcome+)](https://git.io/typing-svg" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=BF53F7&multiline=true&random=false&width=435&lines=Hey+there!!!+Welcome+" alt="Typing SVG" /></a>
 </p>
