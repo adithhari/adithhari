@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=BF53F7&multiline=true&random=false&width=435&lines=Hey+there!!!+Welcome+" alt="Welcome" />
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&random=false&width=435&lines=Hey+there+!!!+Welcome+to+gitspace+" alt="Welcome" />
 </p>
