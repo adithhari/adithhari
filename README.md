@@ -6,13 +6,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&multiline=true&repeat=true&width=600&height=60&lines=Full-Stack+Engineer+💻;ML+%26+AI+Enthusiast+🤖;Distributed+Systems+🔗;DevOps+Expert+⚙️" />
+### 💻 Full-Stack Engineer | 🤖 ML & AI | 🔗 Distributed Systems | ⚙️ DevOps
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=14&duration=2000&pause=400&color=00AA2C&background=0D1117&center=true&width=600&height=40&lines=SWE+@+IU+Global+Health+Project+%7C+Building+at+Scale+🚀)](https://github.com/adithhari)
+**SWE @ IU Global Health Project | Building at Scale** 🚀
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=18&duration=2000&pause=500&color=FFD700&background=0D1117&center=true&multiline=true&repeat=true&width=600&height=50&lines=🏆+ACHIEVEMENTS+UNLOCKED+🏆;⭐+HONORS+&+AWARDS+⭐" />
+### 🏆 ACHIEVEMENTS UNLOCKED ⭐
 
 </div>
 
@@ -55,15 +55,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=18&duration=2000&pause=500&color=00FF41&background=0D1117&center=true&multiline=true&repeat=true&width=600&height=50&lines=📡+CONNECT+WITH+ME+📡;🌐+LET'S+COLLABORATE+🌐" />
+### 📡 CONNECT WITH ME 🌐
 
 </div>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-adithharinarayanan%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithharinarayanan@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adithhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithhari)
+📧 **Email:** [adithharinarayanan@gmail.com](mailto:adithharinarayanan@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/adithhari](https://linkedin.com/in/adithhari)
 
 </div>
 
