@@ -6,13 +6,21 @@
 
 <div align="center">
 
-### 💻 Full-Stack Engineer | 🤖 ML & AI | 🔗 Distributed Systems | ⚙️ DevOps
+> **💻 Full-Stack Engineer** • **🤖 ML & AI** • **🔗 Distributed Systems** • **⚙️ DevOps**
 
-</div>
+<br>
 
-<div align="center">
+![Expertise](https://img.shields.io/badge/Expertise-Full_Stack_Development-success?style=flat-square&color=00FF41)
+![Focus](https://img.shields.io/badge/Focus-Building_at_Scale-informational?style=flat-square&color=00AA2C)
+![Status](https://img.shields.io/badge/Status-Actively_Building-brightgreen?style=flat-square&color=003B00)
 
-**SWE @ IU Global Health Project | Building at Scale** 🚀
+<br>
+
+```
+╔════════════════════════════════════════════════════════════╗
+║  🚀 SWE @ IU Global Health Project | Building at Scale 🚀  ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -57,33 +65,29 @@
 
 ### 📡 CONNECT WITH ME 🌐
 
+---
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="mailto:adithharinarayanan@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a><br>
+      <code>adithharinarayanan@gmail.com</code>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://linkedin.com/in/adithhari">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a><br>
+      <code>/in/adithhari</code>
+    </td>
+  </tr>
+</table>
+
+**Let's collaborate! Drop me a message.** 💬
+
+---
+
 </div>
-
-<div align="center">
-
-📧 **Email:** [adithharinarayanan@gmail.com](mailto:adithharinarayanan@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/adithhari](https://linkedin.com/in/adithhari)
-
-</div>
-
-<!-- ---
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&multiline=true&repeat=true&width=600&height=60&lines=⚡+VISITOR+MATRIX+⚡;🔥+ACCESSING+PROFILE+DATA+🔥" />
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=adithhari&color=00FF41&style=plastic&label=👁️%20PROFILE%20SCANS"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&duration=2000&pause=400&color=00FF41&background=0D1117&center=true&repeat=true&width=600&height=40&lines=✨+Thanks+for+visiting!+✨" />
-
-</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:0D1117&height=100&section=footer&animation=fadeIn"/>
