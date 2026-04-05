@@ -24,13 +24,7 @@
 </div>
 
 ---
-
-**Languages**
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,typescript&theme=dark&perline=7"/>
-</div>
-
----
-
+<div align="center">
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,typescript&theme=dark&perline=7"/>
@@ -45,7 +39,7 @@
 
 **Databases & Data**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,neo4j,dynamodb&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb&theme=dark&perline=6"/>
 
 **Cloud & DevOps**
 
@@ -53,8 +47,9 @@
 
 **Tools & Practices**
 
-<img src="https://skillicons.dev/icons?i=git,jira,jenkins,postman,github&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=git,jenkins,postman,github&theme=dark&perline=5"/>
 
+</div>
 ---
 
 <div align="center">
