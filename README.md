@@ -10,7 +10,6 @@
 
 <br>
 
-![Expertise](https://img.shields.io/badge/Expertise-Full_Stack_Development-success?style=flat-square&color=00FF41)
 ![Focus](https://img.shields.io/badge/Focus-Building_at_Scale-informational?style=flat-square&color=00AA2C)
 ![Status](https://img.shields.io/badge/Status-Actively_Building-brightgreen?style=flat-square&color=003B00)
 
@@ -38,7 +37,7 @@
 
 **Data & Cloud**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,neo4j,aws,azure&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,neo4j,aws,azure&theme=dark&perline=3"/>
 
 ---
 
